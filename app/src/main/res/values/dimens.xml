@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="elevationSize">16dp</dimen>
+    <dimen name="cardViewMargin">12dp</dimen>
+    <dimen name="spaceViewMargin">4dp</dimen>
+    <dimen name="spaceViewWidth">1dp</dimen>
+    <dimen name="optionsMargin">8dp</dimen>
+</resources>

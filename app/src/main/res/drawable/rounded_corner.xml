@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#71C3DE"/>
+
+<stroke android:width="3dp"
+    android:color="#71C3DE"
+    />
+    <!--android:color="#ff000000"-->
+<padding android:left="1dp"
+    android:top="1dp"
+    android:right="1dp"
+    android:bottom="1dp"
+    />
+
+<corners android:radius="7dp"/>
+</shape>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<shape xmlns:tools="http://schemas.android.com/tools"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--<solid android:color="#71C3DE" />-->
+    <!--&lt;!&ndash;border color and border width&ndash;&gt;-->
+    <!--<stroke-->
+    <!--android:width="7dp"-->
+    <!--android:color="?attr/actionMenuTextColor" />-->
+    <!--&lt;!&ndash;border radius in dp&ndash;&gt;-->
+    <!--<corners android:radius="20dp" />-->
+    <!--</shape>-->

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MCQ</string>
+
+    <string name="quest1">C99 standard guarantees uniqueness of ____ characters for internal names.</string>
+    <string name="opt1_1">31</string>
+    <string name="opt1_2">63</string>
+    <string name="opt1_3">12</string>
+    <string name="opt1_4">14</string>
+
+    <string name="quest2">Select valid variable declarations.</string>
+    <string name="opt2_1">int i, j, k;</string>
+    <string name="opt2_2">char c, ch;</string>
+    <string name="opt2_3">Char c, ch;</string>
+    <string name="opt2_4">Int i, j, k;</string>
+
+    <string name="quest3">Declare a variable of name \'a\' double data type ( C Language).</string>
+    <string name="opt3_1">double a;</string>
+
+    <string name="quest4">Initialize variable a = 5 with data type as integer.</string>
+    <string name="opt4_1">int a;</string>
+    <string name="opt4_2">integer a;</string>
+    <string name="opt4_3">Int a;</string>
+    <string name="opt4_4">int a;a = 5;</string>
+
+    <string name="ans">Answer</string>
+
+    <string name="correct">is correct</string>
+    <string name="incorrect">is incorrect</string>
+
+    <string name="attemptWarn">please attempt Question No.</string>
+
+    <string name="totalMarks">Total Marks =</string>
+
+    <string name="submitButton">Submit</string>
+    <string name="q">Q</string>
+    <string name="qNo1">1.</string>
+    <string name="qNo2">2.</string>
+    <string name="qNo3">3.</string>
+    <string name="qNo4">4.</string>
+</resources>
